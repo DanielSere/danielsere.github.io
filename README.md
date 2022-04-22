@@ -72,4 +72,4 @@ To view a live example, **[click here](https://danielsere.github.io/)**
 - 🔃 Create a new pull request. -->
 
 ## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
